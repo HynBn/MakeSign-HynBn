@@ -18,17 +18,17 @@ With the help of Raspberry Pis, the dashboard and uploaded images can be display
 
 ## Preview
 
-![Homepage](Homepage.png)
+![Homepage](README-Images/Homepage.png)
 The Homepage of MakeSign
-![SlidesIndex](Slides_Indexpage.png)
+![SlidesIndex](README-Images/Slides_Indexpage.png)
 The Index Page of Slides
-![SlideshowsIndex](Slideshows_Indexpage.png)
+![SlideshowsIndex](README-Images/Slideshows_Indexpage.png)
 The Index Page of Slideshows
-![SlideshowEdit](Slideshows_Editpage.png)
+![SlideshowEdit](README-Images/Slideshows_Editpage.png)
 The Edit Page of Slideshows
-![ScreensIndex](Screens_Indexpage.png)
+![ScreensIndex](README-Images/Screens_Indexpage.png)
 The Index Page of Screens
-![ScreensEdit](Screens_Editpage.png)
+![ScreensEdit](README-Images/Screens_Editpage.png)
 The Edit Page of Screens
 
 # Original README
