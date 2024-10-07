@@ -1,6 +1,39 @@
+# MakeSign - My Experience
+
+## Overview
+
+MakeSign is a digital signage solution developed in collaboration with IDiA. It aims to provide the Makerspace with an easy way to display the availability of various tools and 3D printers via a dashboard, as well as present advertisements and announcements through a slideshow using a program.
+With the help of Raspberry Pis, the dashboard and uploaded images can be displayed on monitors in the Makerspace. The MakeSign program is written in Ruby on Rails, with JavaScript for the dashboard and Bootstrap CSS for the styling.
+
+## My Contributions
+
+- **Research:** Explored existing digital signage solutions and hardware.
+- **Raspberry Pi Setup:** Installed a custom GUI and handled kiosk mode setup.
+- **Upgrading Concerto:** Attempted to resolve issues resulting from upgrading Concerto to Ruby 3.3.3. as a first attempt to our project.
+- **Custom Ruby Project:** Restarted the project using a custom Ruby on Rails solution.
+- **Frontend Development:** Integrated CSS, Bootstrap, and JavaScript into the Asset Pipeline.
+- **Styling & Design:** Created the frontend design and styled the interface, my biggest contribution.
+- **Backend:** Implementing easy sections of the backend part
+- **Bug Fixes & JS Implementations:** Fixed various bugs and implemented small JavaScript features.
+
+## Preview
+
+![Homepage](Homepage.png)
+The Homepage of MakeSign
+![SlidesIndex](Slides_Indexpage.png)
+The Index Page of Slides
+![SlideshowsIndex](Slideshows_Indexpage.png)
+The Index Page of Slideshows
+![SlideshowEdit](Slideshows_Editpage.png)
+The Edit Page of Slideshows
+![ScreensIndex](Screens_Indexpage.png)
+The Index Page of Screens
+![ScreensEdit](Screens_Editpage.png)
+The Edit Page of Screens
+
+# Original README
+
 ## MakeSign
-
-
 
 MakeSign is a free and open-source digital signage solution developed by students at HTW-Berlin. It leverages old monitors in conjunction with microcomputers like Raspberry Pi to create an efficient digital signage infrastructure.
 
