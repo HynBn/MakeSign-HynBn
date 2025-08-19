@@ -1,8 +1,9 @@
 # MakeSign - My Experience
 
 ## Overview
+This Project is my practical project of my study course, International Media and Computing (in German: Internationale Medieninformatik), in which me and 4 fellow students created MakeSign.
 
-MakeSign is a digital signage solution developed in collaboration with IDiA. It aims to provide the Makerspace with an easy way to display the availability of various tools and 3D printers via a dashboard, as well as present advertisements and announcements through a slideshow using a program.
+MakeSign is a digital signage solution developed in collaboration with IDiA. It aims to provide the Makerspace with an easy way to display the availability of various tools and 3D printers via a dashboard, as well as present advertisements and announcements through a slideshow using a program. Using MakeSign, a Website hosted on the HTW University, the Makerspace can create, manage, and play the digital signage content easily.
 With the help of Raspberry Pis, the dashboard and uploaded images can be displayed on monitors in the Makerspace. The MakeSign program is written in Ruby on Rails, with JavaScript for the dashboard and Bootstrap CSS for the styling.
 
 ## My Contributions
@@ -13,7 +14,7 @@ With the help of Raspberry Pis, the dashboard and uploaded images can be display
 - **Custom Ruby Project:** Restarted the project using a custom Ruby on Rails solution.
 - **Frontend Development:** Integrated CSS, Bootstrap, and JavaScript into the Asset Pipeline.
 - **Styling & Design:** Created the frontend design and styled the interface, my biggest contribution.
-- **Backend:** Implementing easy sections of the backend part
+- **Backend:** Implementing sections of the backend part with the help of my teammates
 - **Bug Fixes & JS Implementations:** Fixed various bugs and implemented small JavaScript features.
 
 ## Preview
